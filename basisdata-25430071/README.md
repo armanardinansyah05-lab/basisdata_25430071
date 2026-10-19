@@ -2,7 +2,7 @@
 
 * **Nama**: Arman
 * **NIM**: 25430071
-* **Kelas**: [Isi Kelas Anda]
+* **Kelas**: C
 
 ---
 
