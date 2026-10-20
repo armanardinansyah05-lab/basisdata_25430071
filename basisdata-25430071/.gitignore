@@ -1,2 +1,4 @@
 *.env
 kredensial*.txt
+*.log
+.vscode/
